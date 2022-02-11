@@ -6,6 +6,8 @@ A beginning.I mean fun is when you know what you are doing. And that to me is ma
 <html>
   <head>
     <meta charset="utf-8">
+    styles= "background-color:dark brown
+    ;text-color:cornsilk;
       
       color tests   
   </head>
@@ -15,5 +17,5 @@ A beginning.I mean fun is when you know what you are doing. And that to me is ma
     <img src="
   </body>
   </body>
-</html>
+</html>"
 
