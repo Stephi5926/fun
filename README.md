@@ -6,12 +6,13 @@ A beginning. I mean fun is when you know what you are doing. And that to me is m
 <html>
   <head>
     <meta charset="utf-8">
-    styles= "background-color:dark brown
-    ;text-color:cornsilk;
+ <p>  <h2>
+    </p>
       
-      color tests   
+      color tests
+    <h2>greetings</h2>
   </head>
-  <body>
+  <body>background-color:pale blue</body>
    </head>
   <body>
     <img src="
