@@ -6,8 +6,7 @@ A beginning. I mean fun is when you know what you are doing. And that to me is m
 <html>
   <head>
     <meta charset="utf-8">
- <p>  <h2>
-    </p>
+    <p style="background-color:pale blue;">testing background</p> 
       
       color tests
     <h2>greetings</h2>
